@@ -1,0 +1,39 @@
+Forum Participation
+
+Objective: Engage with the mixed reality developer community by actively participating in relevant forums.
+
+Instructions:
+
+Background:
+Active engagement with the mixed reality developer community is essential for staying updated on industry trends, sharing knowledge, and seeking solutions to development challenges. In this assignment, students will participate in a mixed reality or XR developer forum or community platform to enhance their learning and contribute to the community.
+
+Task:
+
+Select a Mixed Reality Forum:
+
+Instruct students to choose a mixed reality or XR developer forum or community platform. Examples include Reddit's r/MixedReality, Unity forums, specialized XR developer communities, or other relevant platforms.
+Regular Participation:
+
+Task students with actively participating in their chosen forum. They should:
+Regularly contribute to discussions by providing insights, asking questions, or sharing experiences related to mixed reality development.
+Seek opportunities to help other community members by answering questions or providing solutions when possible.
+Share updates, progress, or challenges related to their current mixed reality projects, if applicable.
+Quality Contributions:
+
+Emphasize the importance of quality contributions. Students should aim to provide helpful and well-thought-out responses that add value to the community.
+Participation Assessment:
+
+Assess students' participation based on the quality, relevance, and helpfulness of their forum interactions. Encourage them to engage with a diverse range of topics within the mixed reality development community.
+Summarize Activities:
+
+Require students to summarize their forum participation activities and experiences in a report or presentation. They should reflect on what they learned, how they contributed, and any valuable insights gained from the community.
+Assessment:
+The Forum Participation assignment will be assessed based on the following criteria:
+
+Regular Participation: The consistency and frequency of students' contributions to the chosen mixed reality forum.
+
+Quality of Contributions: The quality and relevance of their responses, including the ability to provide helpful insights and solutions.
+
+Engagement with Mixed Reality Projects: The extent to which students actively share updates or challenges related to their mixed reality projects.
+
+Reflective Summary: The quality of the report or presentation summarizing their forum activities and the insights gained from community engagement.

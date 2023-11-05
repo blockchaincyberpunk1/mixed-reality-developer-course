@@ -1,0 +1,32 @@
+3D Modeling Basics
+
+Objective: Gain a fundamental understanding of 3D modeling.
+
+Instructions:
+
+Background:
+3D modeling is a crucial skill for mixed reality developers, as it allows them to create virtual objects, environments, and assets. This assignment introduces students to the basics of 3D modeling and encourages them to create a simple 3D model.
+
+Task:
+
+Choose an Object:
+
+Ask students to choose a simple real-world object as their modeling subject. Examples include a chair, a cup, a car, a tree, or a basic geometric shape. Emphasize the importance of selecting a straightforward object for this exercise.
+Create a 3D Model:
+
+Instruct students to use a 3D modeling software of their choice (e.g., Blender, Autodesk Maya, or Tinkercad) to create a basic 3D model of the chosen object.
+Encourage students to focus on modeling the object's shape and structure. They should not worry about adding textures, complex details, or rendering at this stage.
+Students should ensure that their 3D model accurately represents the chosen object.
+Submission:
+
+Ask students to submit their assignment in two parts:
+The 3D model file (in a common format like .blend, .fbx, or .obj).
+A screenshot or render of their 3D model, showcasing the object from different angles or perspectives.
+Assessment:
+The 3D Modeling Basics assignment will be assessed based on the following criteria:
+
+Accuracy: The accuracy of the 3D model in representing the chosen real-world object.
+
+Completeness: Whether the submitted 3D model file and screenshot/render fulfill the assignment requirements.
+
+Clarity of Presentation: The clarity and quality of the screenshot or render provided to showcase the 3D model.

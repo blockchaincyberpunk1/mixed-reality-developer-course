@@ -1,0 +1,35 @@
+Texture Mapping
+
+Objective: Explore the importance of textures in 3D graphics.
+
+Instructions:
+
+Background:
+Texture mapping is a crucial aspect of 3D graphics that enhances the visual realism of 3D models. This assignment introduces students to the concept of texture mapping and requires them to apply textures to a 3D object.
+
+Task:
+
+Provided 3D Model:
+
+Provide students with a 3D model (or a simple geometric shape) that is free of textures. The model should be in a common format (e.g., .blend, .fbx, or .obj).
+Alternatively, you can guide students to create their own basic 3D geometric shape if providing a pre-made model is not feasible.
+Texture Mapping:
+
+Instruct students to find or create a texture map (also known as a texture image or texture) that would be suitable for their chosen 3D object. The texture should enhance the object's appearance and realism.
+Ask students to apply the texture to the 3D object and adjust the UV mapping coordinates to ensure that the texture is accurately placed and aligned on the object's surface.
+Encourage students to experiment with different textures, UV mapping techniques, and settings to achieve the desired visual effect.
+Submission:
+
+Students should submit their assignment in two parts:
+The 3D model file with the applied texture (in a common format like .blend, .fbx, or .obj).
+A description of the texture mapping process, including any challenges faced and the techniques used.
+Assessment:
+The Texture Mapping assignment will be assessed based on the following criteria:
+
+Texture Quality: The quality and suitability of the chosen texture for enhancing the 3D object's appearance.
+
+Accuracy of Mapping: The accuracy of UV mapping and alignment, ensuring the texture fits the 3D object correctly.
+
+Creativity: The level of creativity and experimentation demonstrated in selecting and applying the texture.
+
+Description: The clarity and completeness of the description of the texture mapping process.

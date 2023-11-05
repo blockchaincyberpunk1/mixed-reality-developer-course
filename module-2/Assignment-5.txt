@@ -1,0 +1,38 @@
+Mixed Reality Interaction Development
+
+Objective: Begin developing interactions in a mixed reality environment.
+
+Instructions:
+
+Background:
+One of the essential skills for a mixed reality developer is the ability to create immersive and interactive experiences. In this assignment, students will start developing user interactions within a mixed reality environment using their chosen development platform.
+
+Task:
+
+Platform Selection:
+
+Instruct students to choose a mixed reality development platform that aligns with their interests and resources. Popular options include Unity with XR Toolkit, Unreal Engine with HoloLens, or any other mixed reality development environment.
+Mixed Reality Scene Setup:
+
+Task students with creating a basic mixed reality scene. The scene could be an augmented reality (AR) environment overlaid on the real world or a virtual reality (VR) space.
+Interaction Development:
+
+Encourage students to implement user interactions within the mixed reality environment. They can consider a range of interaction methods, such as hand tracking, voice recognition, or spatial mapping, depending on the capabilities of their chosen platform.
+Instruct them to include at least one interactive element or object that responds to user actions (e.g., picking up a virtual object, manipulating objects with gestures, or triggering actions via voice commands).
+Documentation:
+
+Require students to thoroughly document the development process. This documentation should include details about how interactions were implemented, any code snippets used, and explanations of the tools or APIs employed.
+Students should also document any challenges they encountered during development and how they resolved them.
+Video Demonstration:
+
+Request that students create a video demonstration showcasing their mixed reality interaction in action. The video should clearly demonstrate how the user interacts with the mixed reality environment and the responsive elements.
+Assessment:
+The Mixed Reality Interaction Development assignment will be assessed based on the following criteria:
+
+Implementation of User Interactions: The successful implementation of user interactions within the mixed reality environment.
+
+Creativity and Innovation: The creativity and innovation demonstrated in designing interactive elements or experiences.
+
+Documentation Quality: The completeness and clarity of the development documentation, including code explanations and troubleshooting notes.
+
+Video Demonstration: The quality and clarity of the video demonstration, which should effectively showcase the mixed reality interaction.

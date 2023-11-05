@@ -1,0 +1,30 @@
+Mixed Reality Terminology
+
+Objective: Familiarize students with essential mixed reality terminology.
+
+Instructions:
+
+Background:
+To excel in mixed reality development, it's crucial to understand the terminology specific to this field. This assignment will help students build a strong foundation in mixed reality concepts and language.
+
+Task:
+
+Terminology List:
+
+Provide students with a list of mixed reality-related terms and jargon. These terms may include concepts related to VR, AR, MR devices, interaction, and more.
+Definition and Use Case:
+
+Instruct students to define each term concisely in their own words.
+Ask them to provide an example or use case illustrating how each term is applied in mixed reality development or experiences.
+Flashcards or Glossary:
+
+Encourage students to create flashcards or compile a glossary using the defined terms and their explanations.
+These study aids will serve as valuable references for future mixed reality projects and coursework.
+Assessment:
+The Mixed Reality Terminology assignment will be assessed based on the following criteria:
+
+Terminology Definitions: The clarity and accuracy of the definitions provided for each mixed reality-related term.
+
+Use Cases: The relevance and effectiveness of the examples or use cases given to illustrate the practical application of each term.
+
+Flashcards or Glossary: The organization and completeness of the flashcards or glossary created by the students.

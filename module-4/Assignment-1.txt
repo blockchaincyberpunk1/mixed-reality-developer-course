@@ -1,0 +1,41 @@
+VR Project Selection
+
+Objective: Choose a VR project concept and define its scope for development in Unity or Unreal Engine.
+
+Instructions:
+
+Background:
+Before diving into the development of virtual reality (VR) experiences, it's crucial to have a clear project concept and scope. In this assignment, students will select a VR project idea, create a project proposal, and define the initial scope of their VR development project using Unity or Unreal Engine.
+
+Task:
+
+Brainstorm VR Project Ideas:
+
+Instruct students to brainstorm and come up with several VR project concepts. These concepts could include VR games, virtual tours, educational simulations, or any other VR experience that interests them.
+Encourage creativity and exploration in the initial brainstorming phase.
+Select a VR Project Idea:
+
+Ask students to select one VR project idea from their brainstormed concepts. They should choose the idea that excites them the most and aligns with their interests and goals.
+Remind students to consider the project's feasibility within the chosen development environment (Unity or Unreal Engine).
+Project Proposal:
+
+Instruct students to write a project proposal for their selected VR project. The proposal should include the following elements:
+Project Title: Give the project a suitable name.
+Project Goals: Clearly state the goals and objectives of the VR project.
+Target Audience: Identify the intended audience for the VR experience.
+Key Features: List the main features and interactions that the VR project will offer.
+Immersive Elements: Describe any unique immersive elements, storytelling aspects, or gameplay mechanics that will be included.
+Technical Requirements: Specify the technical requirements and hardware needed for the project (e.g., VR headset compatibility).
+Development Environment: Choose either Unity or Unreal Engine as the development platform.
+Scope Definition:
+
+Have students define the initial scope of their VR project. This includes determining which features and elements will be included in the minimum viable product (MVP).
+Encourage them to consider factors such as project complexity, available development resources, and project timelines when defining the scope.
+Assessment:
+The VR Project Selection assignment will be assessed based on the following criteria:
+
+Project Idea Selection: The appropriateness and creativity of the selected VR project idea.
+
+Project Proposal: The completeness and clarity of the project proposal, including goals, target audience, features, and immersive elements.
+
+Scope Definition: The thoughtful consideration of the initial project scope, ensuring it aligns with project goals and constraints.

@@ -1,0 +1,49 @@
+Mobile Device Deployment
+
+Objective: Deploy a mixed reality application to a mobile device platform.
+
+Instructions:
+
+Background:
+Mobile devices are a common and accessible platform for delivering mixed reality experiences. In this assignment, students will develop a mixed reality application specifically designed for mobile devices (iOS or Android) and learn how to deploy it to their chosen platform.
+
+Task:
+
+Platform Selection:
+
+Instruct students to choose one of the following mobile device platforms for their mixed reality application:
+iOS (using ARKit).
+Android (using ARCore).
+Mixed Reality Application Development:
+
+Task students with developing a mixed reality application that leverages the augmented reality capabilities of the chosen platform.
+Encourage them to design an engaging and immersive experience that aligns with the strengths of mobile devices.
+Optimization for Mobile:
+
+Provide guidance on optimizing the application for mobile performance, including considerations for device limitations, battery life, and user experience.
+Instruct students to optimize 3D models, textures, and interactions to ensure smooth performance on mobile devices.
+Deployment:
+
+Guide students through the process of deploying their mixed reality application to their chosen mobile platform. This includes preparing the application for submission to the platform's app store.
+If using iOS, students should aim for deployment on the Apple App Store. For Android, deployment can be on Google Play Store.
+User Guides and Tutorials:
+
+Require students to create user guides or tutorials that explain how to use their mixed reality application on mobile devices.
+These guides should cover the application's features, interactions, and any unique functionalities that arise from the chosen platform.
+Presentation and Showcase:
+
+During class presentations, have students showcase their deployed mixed reality applications on mobile devices.
+Encourage them to provide a brief overview of the application's purpose, features, and the augmented reality experiences it offers.
+Allocate time for Q&A where students can answer questions about their development and deployment process.
+Assessment:
+The Mobile Device Deployment assignment will be assessed based on the following criteria:
+
+Application Quality: The quality, functionality, and user experience of the mixed reality application on mobile devices.
+
+Optimization: How well the application is optimized for mobile performance, considering factors like frame rate, battery usage, and device compatibility.
+
+Deployment Process: The completeness and success of the deployment process, including submission to the app store (if applicable).
+
+User Guides and Tutorials: The clarity and effectiveness of the user guides or tutorials in explaining how to use the application on mobile devices.
+
+Presentation: The quality of the presentation and the ability to effectively showcase the application and its features on a mobile device.

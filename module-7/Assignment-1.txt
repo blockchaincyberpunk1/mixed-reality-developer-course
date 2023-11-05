@@ -1,0 +1,49 @@
+Standalone Headset Deployment
+
+Objective: Deploy a mixed reality application to a standalone headset platform.
+
+Instructions:
+
+Background:
+One of the essential skills for a mixed reality developer is the ability to deploy applications to specific platforms. Standalone mixed reality headsets, such as the HoloLens, Oculus Quest, and Magic Leap, provide unique opportunities for immersive experiences. In this assignment, students will choose a standalone mixed reality headset platform, develop an MR application for it, and successfully deploy the application to the chosen headset.
+
+Task:
+
+Platform Selection:
+
+Instruct students to choose one of the following standalone mixed reality headset platforms:
+HoloLens (any version).
+Oculus Quest (any version).
+Magic Leap One.
+Mixed Reality Application Development:
+
+Task students with developing a mixed reality application that showcases the capabilities and strengths of the selected headset platform.
+The application should be immersive, engaging, and demonstrate a clear use case for the chosen headset.
+Packaging and Deployment:
+
+Provide guidelines and resources for packaging and deploying the application to the chosen headset platform. Students should consider the platform's specific requirements and tools for deployment.
+If the chosen platform has an app store (e.g., Oculus Store or Microsoft Store), students should follow the store's submission guidelines.
+Alternatively, if the platform supports sideloading, students should include instructions on how to install the application on the headset.
+Documentation:
+
+Require students to create comprehensive documentation that covers the deployment process. This documentation should include:
+Step-by-step instructions for packaging the application.
+Guidelines for submitting the application to an app store (if applicable).
+Instructions for sideloading the application (if applicable).
+Screenshots or visuals illustrating key steps.
+Any challenges or considerations specific to the chosen platform.
+Demonstration and Presentation:
+
+Have students demonstrate the deployed mixed reality application on the chosen standalone headset during a class presentation.
+Encourage them to explain the key features of the application, its intended use case, and how it utilizes the capabilities of the headset.
+Provide time for Q&A where students can answer questions about the deployment process and their experiences with the chosen platform.
+Assessment:
+The Standalone Headset Deployment assignment will be assessed based on the following criteria:
+
+Application Quality: The quality, functionality, and engagement level of the developed mixed reality application.
+
+Deployment Process: The completeness and clarity of the documentation for packaging and deploying the application, including any platform-specific considerations.
+
+Successful Deployment: The ability to successfully deploy the application to the chosen standalone headset platform and demonstrate its functionality.
+
+Presentation: The quality of the presentation, including the ability to effectively explain the application's features and use case.

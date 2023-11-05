@@ -1,0 +1,37 @@
+Mixed Reality User Interface Mockup
+
+Objective: Design a user interface for a mixed reality application, focusing on user comfort and interaction.
+
+Instructions:
+
+Background:
+In this assignment, students will delve into the critical aspect of designing user interfaces (UI) for mixed reality (MR) applications. A well-designed UI can significantly impact the user's comfort, engagement, and overall experience in a mixed reality environment.
+
+Task:
+
+Application Scenario Selection:
+
+Provide students with a scenario or concept for a mixed reality application. The scenario should align with the course's theme (e.g., virtual art gallery, medical training simulation).
+Ensure that the scenario involves interactions that require user interfaces, such as menus, buttons, or spatial UI elements.
+UI Design:
+
+Instruct students to design a user interface for the given scenario. They should consider the following aspects:
+The placement and layout of UI elements within the MR environment.
+The choice of input methods (e.g., hand gestures, voice commands) for interacting with the UI.
+The design and aesthetics of the UI elements, ensuring they blend seamlessly with the MR environment.
+The usability and intuitiveness of the UI to enhance user comfort and engagement.
+Wireframes or Mockups:
+
+Encourage students to create wireframes or mockups of their UI design. They can use digital tools or draw by hand.
+The wireframes or mockups should illustrate the placement and appearance of UI elements within the MR environment.
+UI Presentation:
+
+Require students to present their UI design to the class. They should explain their design choices, emphasizing how the UI enhances user comfort and interaction in the given MR scenario.
+Assessment:
+The Mixed Reality User Interface Mockup assignment will be assessed based on the following criteria:
+
+UI Design Quality: The quality and creativity of the UI design, considering its appropriateness for the MR scenario.
+
+Usability and Comfort: How well the UI design promotes user comfort and interaction within the MR environment.
+
+Presentation: The clarity and effectiveness of the student's presentation, including their ability to articulate design choices.

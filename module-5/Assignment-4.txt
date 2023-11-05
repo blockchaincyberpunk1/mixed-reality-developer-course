@@ -1,0 +1,42 @@
+Controller Interaction
+
+Objective: Enable controller-based interaction in mixed reality applications.
+
+Instructions:
+
+Background:
+In this assignment, students will further enhance their mixed reality (MR) project by incorporating controller-based interactions. Controller interactions play a vital role in MR applications, allowing users to manipulate objects, navigate menus, and perform various actions within the MR environment.
+
+Task:
+
+Enhance Existing Project or Create a New One:
+
+Students can choose to either enhance their existing MR project (from previous assignments) or create a new MR project that utilizes handheld controllers.
+If they choose to enhance an existing project, they should ensure that controller interactions align with the project's theme and objectives.
+Controller Interaction Implementation:
+
+Instruct students to implement controller-based interactions using the specific controllers supported by their chosen MR platform (e.g., Oculus Touch, Windows Mixed Reality controllers).
+The interactions may include:
+Grabbing and releasing objects.
+Throwing objects.
+Rotating or resizing objects.
+Navigating menus or options.
+Encourage students to make controller interactions intuitive and responsive to user input.
+Usability Testing:
+
+Ask students to conduct usability testing with potential users or peers to gather feedback on the controller interactions.
+Students should document user feedback and any suggested improvements.
+Demonstration:
+
+Require students to provide a video demonstration of their MR application, showcasing how users can interact with objects and navigate within the MR environment using handheld controllers.
+The video should emphasize the responsiveness and usability of the controller-based interactions.
+Assessment:
+The Controller Interaction assignment will be assessed based on the following criteria:
+
+Controller Implementation: The successful integration of controller-based interactions within the MR application.
+
+User Experience: How well the controller interactions enhance user engagement and interaction within the MR environment.
+
+Usability Testing: The quality of feedback collected during usability testing and any improvements made based on user feedback.
+
+Demonstration: The effectiveness of the video demonstration in showcasing the controller interactions and their usability.

@@ -1,0 +1,34 @@
+Mixed Reality Concept Design
+
+Objective: Begin thinking about mixed reality concepts and design possibilities.
+
+Instructions:
+
+Background:
+In the world of mixed reality development, innovative ideas are at the core of creating engaging and impactful experiences. This assignment encourages students to explore their creativity and start the process of designing a mixed reality concept or application.
+
+Task:
+
+Concept Brainstorming:
+
+Instruct students to brainstorm and develop a mixed reality concept or application idea. The concept can fall into various categories, such as education, entertainment, healthcare, or productivity.
+Encourage students to consider what unique features or interactions mixed reality can bring to their concept.
+Concept Design Document:
+
+Ask students to create a concept design document that outlines their mixed reality idea. This document should include:
+A clear and concise description of the concept.
+Main features and functionalities.
+Target audience and user personas.
+Potential use cases or scenarios.
+Challenges and considerations specific to mixed reality.
+Visualizing the Concept:
+
+Encourage students to enhance their concept design document by including wireframes, sketches, or visual representations of their ideas. These visuals can help others understand the concept more effectively.
+Assessment:
+The Mixed Reality Concept Design assignment will be assessed based on the following criteria:
+
+Concept Clarity: The clarity and coherence of the mixed reality concept or application idea presented in the design document.
+
+Design Elements: The completeness and effectiveness of the design document, including its main features, target audience, use cases, and potential challenges.
+
+Visual Representation: The quality and relevance of wireframes, sketches, or visuals in conveying the concept.

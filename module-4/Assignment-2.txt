@@ -1,0 +1,44 @@
+ VR Scene Design
+
+Objective: Plan and design the virtual environments for their VR projects.
+
+Instructions:
+
+Background:
+Creating immersive and engaging virtual reality (VR) experiences relies heavily on thoughtful scene design. In this assignment, students will take their selected VR project idea from Assignment 1 and start planning and designing the VR scenes or environments they intend to create using Unity or Unreal Engine.
+
+Task:
+
+Select VR Scenes:
+
+Instruct students to choose at least two specific scenes or environments within their VR projects. These scenes should represent key parts of their VR experience.
+Remind students to consider how these scenes connect to the overall narrative or purpose of their VR project.
+Storyboard or Visual Design:
+
+Ask students to create a storyboard or visual design concept for each of the selected VR scenes. They can use traditional sketching techniques, digital tools, or design software for this purpose.
+For each scene, they should visually depict the following elements:
+Layout: The spatial arrangement of objects, pathways, and key points of interest within the scene.
+Objects: The 3D models or assets that will populate the scene, including their placement and interactivity.
+Interactions: How users will engage with the environment or objects within the scene.
+Immersive Elements: Consideration of how lighting, textures, sound, or other immersive elements will enhance the scene's atmosphere.
+Emphasize Immersion:
+
+Encourage students to think deeply about how to create a sense of immersion within their VR scenes. They should consider factors such as:
+Realistic scale and perspective.
+Appropriate use of textures and materials.
+Lighting that enhances the atmosphere.
+Sound design that complements the visuals.
+Presentation:
+
+Have students present their scene designs to the class. They can use sketches, diagrams, digital mockups, or even VR prototyping tools if available.
+During the presentation, students should explain their design choices, emphasizing how each scene contributes to the overall VR experience.
+Assessment:
+The VR Scene Design assignment will be assessed based on the following criteria:
+
+Scene Selection: The appropriateness of the selected scenes and their relevance to the VR project's goals.
+
+Storyboard/Visual Design: The clarity, detail, and creativity of the storyboard or visual design concepts for each scene.
+
+Emphasis on Immersion: The consideration of immersive elements and their potential to enhance the VR experience.
+
+Presentation: The effectiveness of the presentation, including the ability to explain design choices.

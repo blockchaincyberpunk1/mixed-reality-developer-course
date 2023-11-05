@@ -1,0 +1,38 @@
+Entertainment Experience
+
+Objective: Develop a mixed reality entertainment application that offers immersive experiences.
+
+Instructions:
+
+Background:
+Mixed reality has the potential to revolutionize the entertainment industry by providing users with immersive and interactive experiences. In this assignment, students will have the opportunity to design and develop a mixed reality entertainment application that engages users through storytelling, gameplay, or interactive art.
+
+Task:
+
+Select an Entertainment Focus:
+
+Instruct students to choose a specific entertainment focus for their mixed reality application. Examples include games, storytelling experiences, interactive art installations, or immersive music experiences.
+Design Engaging Content:
+
+Challenge students to design captivating and immersive content that leverages mixed reality features. Encourage them to think creatively about how to use 3D assets, animations, and interactive elements to engage users.
+Development and Implementation:
+
+Task students with developing their entertainment-focused mixed reality application using Unity or Unreal Engine. They should implement the designed content, ensuring it aligns with the chosen entertainment focus.
+Playtesting and Refinement:
+
+Require students to conduct playtesting sessions with users or peers. The goal is to gather feedback on user engagement, enjoyment, and any areas that need improvement. Students should iterate on their application based on this feedback.
+Presentation and Discussion:
+
+During class presentations, have students present their entertainment experience applications. They should showcase the immersive content, discuss user engagement, and describe any unique features or interactions that enhance the entertainment value.
+Assessment:
+The Entertainment Experience assignment will be assessed based on the following criteria:
+
+Engagement and Immersion: The ability of the application to engage users and provide an immersive entertainment experience.
+
+Content Design: The quality and creativity of the designed content, including storytelling, gameplay, or artistic elements.
+
+User Feedback Incorporation: How well students incorporate feedback from playtesting sessions to refine and improve their entertainment application.
+
+Technical Implementation: The technical proficiency demonstrated in implementing mixed reality features and interactions within the application.
+
+Presentation: The effectiveness of the presentation in showcasing the entertainment experience and discussing user engagement and enjoyment.

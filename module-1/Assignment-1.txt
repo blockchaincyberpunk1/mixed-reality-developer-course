@@ -1,0 +1,34 @@
+Mixed Reality Exploration
+
+Objective: Explore the world of mixed reality and its use cases.
+
+Instructions:
+
+Background:
+Mixed reality (MR) technology is transforming various industries and creating new opportunities for immersive experiences that combine the physical and digital worlds. Understanding its real-world applications is crucial for mixed reality developers.
+
+Task:
+
+Research and Compilation:
+
+Instruct students to research and compile a list of real-world applications where mixed reality technology is currently being utilized. Examples can span various sectors, including but not limited to education, healthcare, entertainment, architecture, engineering, and industry.
+Choose a Specific Application:
+
+Ask each student to choose one specific application from the list they compiled. Encourage them to select an application that particularly interests them.
+Detailed Explanation:
+
+For the chosen application, instruct students to provide a detailed explanation of how mixed reality technology enhances and transforms the user experience.
+Encourage them to delve into the specific benefits, such as increased engagement, improved learning outcomes, enhanced visualization, or efficiency gains.
+Examples and Case Studies:
+
+Encourage students to include real-world examples, case studies, or demos that showcase the practical implementation of mixed reality technology in their chosen application.
+Assessment:
+The Mixed Reality Exploration assignment will be assessed based on the following criteria:
+
+Quality of Research: The depth and accuracy of the research conducted to compile a list of real-world applications.
+
+Application Choice: The appropriateness and relevance of the chosen application.
+
+Detailed Explanation: The clarity and comprehensiveness of the explanation of how mixed reality enhances the chosen application.
+
+Examples and Case Studies: The inclusion of relevant real-world examples or case studies to support the explanation.

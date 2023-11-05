@@ -1,0 +1,40 @@
+Building a Mixed Reality Prototype
+
+Objective: Develop a mixed reality prototype using Unity or Unreal Engine.
+
+Instructions:
+
+Background:
+To become proficient in mixed reality development, it's essential to put theoretical knowledge into practice. In this assignment, students will create a mixed reality prototype to demonstrate their understanding of mixed reality concepts and development skills.
+
+Task:
+
+Conceptualize a Mixed Reality Prototype:
+
+Instruct students to conceptualize a mixed reality prototype that serves a specific use case or interaction. This could be an educational tool, an entertainment experience, or a productivity application.
+Encourage students to think creatively and come up with a unique concept that leverages the capabilities of mixed reality.
+Development:
+
+Ask students to implement their mixed reality prototype using either Unity or Unreal Engine, depending on their platform preference.
+Instruct them to incorporate the following elements into their prototype:
+3D models: Use 3D modeling software or pre-made assets.
+Animations: Implement animations to enhance the user experience.
+User interactions: Include interactions such as hand gestures, voice commands, or gaze-based actions.
+Video Demonstration:
+
+Require students to capture a video demonstrating their mixed reality prototype in action. The video should showcase the prototype's purpose and functionality.
+Students should ensure that the video provides a clear view of both the real-world environment and the mixed reality elements.
+Written Explanation:
+
+Ask students to provide a written explanation of their prototype, including its purpose, target audience, and key features.
+Encourage students to reflect on the development process and any challenges they encountered during the creation of their mixed reality prototype.
+Assessment:
+The Building a Mixed Reality Prototype assignment will be assessed based on the following criteria:
+
+Concept and Innovation: The uniqueness and creativity of the mixed reality prototype concept.
+
+Technical Implementation: The quality of implementation, including 3D models, animations, and user interactions.
+
+Video Demonstration: The clarity and effectiveness of the video demonstration in showcasing the prototype's functionality.
+
+Written Explanation: The completeness and clarity of the written explanation, including the prototype's purpose and target audience.

@@ -1,0 +1,41 @@
+Spatial Mesh Interaction
+
+Objective: Develop an application that enables user interaction with the spatial mesh in mixed reality.
+
+Instructions:
+
+Background:
+In mixed reality (MR) development, the spatial mesh represents the meshed representation of the physical environment. It provides a foundation for creating interactive and immersive MR experiences. In this assignment, students will explore the possibilities of user interaction with the spatial mesh.
+
+Task:
+
+Creating a Mixed Reality Application:
+
+Instruct students to continue working on their mixed reality application from previous assignments or create a new one using Unity or Unreal Engine.
+Emphasize that the primary focus of this assignment is to implement interactive features that involve the spatial mesh.
+Spatial Mesh Interaction:
+
+Challenge students to design and implement user interactions within their MR application that involve manipulating or modifying the spatial mesh. Encourage creativity in designing interactions that utilize the spatial mesh as a canvas for user-generated content or modifications.
+Examples of Spatial Mesh Interaction:
+
+Provide students with some examples of spatial mesh interaction ideas:
+Resizing: Allow users to resize portions of the spatial mesh, perhaps to create custom room layouts or modify objects within the environment.
+Coloring: Enable users to paint or color specific portions of the spatial mesh to add personalization to their MR experience.
+Carving: Implement carving tools that allow users to "carve" or sculpt the spatial mesh to create unique shapes or structures.
+Adding Objects: Allow users to place virtual objects directly onto the spatial mesh, such as decorations or interactive elements.
+Intuitive and Responsive Interactions:
+
+Encourage students to ensure that the interactions they design are intuitive and responsive. Users should have a clear understanding of how to use these interactions within the MR application.
+Demonstration:
+
+Students should provide a video demonstration of their MR application, showcasing how users can interact with the spatial mesh. They should demonstrate the implemented spatial mesh interactions in action.
+Assessment:
+The Spatial Mesh Interaction assignment will be assessed based on the following criteria:
+
+Implementation of Spatial Mesh Interaction: The extent to which students successfully implement interactive features involving the spatial mesh.
+
+Creativity: The creativity and innovation demonstrated in the design of spatial mesh interactions.
+
+User Experience: The intuitiveness and responsiveness of the interactions from the user's perspective.
+
+Demonstration Quality: The clarity and completeness of the video demonstration showcasing spatial mesh interaction within the MR application.

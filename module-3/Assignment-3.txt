@@ -1,0 +1,37 @@
+ARKit and ARCore Basics
+
+Objective: Familiarize students with ARKit (iOS) and ARCore (Android) for augmented reality development.
+
+Instructions:
+
+Background:
+Understanding how to work with ARKit and ARCore is essential for mixed reality developers, especially if they intend to create mobile AR applications. This assignment focuses on the basics of these two AR development platforms.
+
+Task:
+
+Platform Selection:
+
+Ensure that students have access to either an iOS device for ARKit or an Android device for ARCore. They will need a compatible device to complete this assignment.
+Tutorial and Documentation:
+
+Provide students with a basic tutorial or official documentation for ARKit (iOS) or ARCore (Android). This tutorial should cover essential concepts, such as setting up an AR project, tracking features, and interacting with AR objects.
+AR Application Development:
+
+Assign students to create a simple augmented reality application using either ARKit (iOS) or ARCore (Android).
+Instruct them to implement at least one of the following AR features:
+Image tracking: The app should recognize and track a predefined image, displaying augmented content when the image is detected.
+Plane detection: The app should detect horizontal surfaces in the real world, allowing users to place virtual objects on them.
+Interactive AR objects: The app should include interactive AR objects that respond to user input, such as tapping or dragging.
+Source Code and Explanation:
+
+Ask students to submit the source code of their AR application along with a brief explanation of its functionality. The explanation should include how the chosen AR feature was implemented and any challenges faced during development.
+Assessment:
+The ARKit and ARCore Basics assignment will be assessed based on the following criteria:
+
+Implementation: The successful implementation of the chosen AR feature within the application.
+
+Code Quality: The quality and organization of the source code, including comments and documentation.
+
+Functionality Explanation: The clarity and completeness of the explanation regarding how the AR feature was implemented.
+
+Problem Solving: The ability to identify and address any challenges encountered during development.

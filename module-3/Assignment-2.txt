@@ -1,0 +1,41 @@
+Setting Up a Mixed Reality Project
+
+Objective: Get hands-on experience with setting up a mixed reality project in Unity or Unreal Engine.
+
+Instructions:
+
+Background:
+Practical experience with setting up a development environment is essential for mixed reality developers. This assignment focuses on the initial setup of a mixed reality project using either Unity or Unreal Engine.
+
+Task:
+
+Platform Selection:
+
+Ensure that students have chosen either Unity or Unreal Engine as their preferred development platform for this course.
+Installation and Configuration:
+
+Instruct students to install the chosen development platform on their computers if they haven't already.
+Provide them with guidelines on how to configure the platform specifically for mixed reality development. This may include installing necessary plugins, SDKs, or packages.
+Project Creation or Opening:
+
+Ask students to create a new mixed reality project from scratch or open a sample mixed reality project provided by the chosen platform.
+Encourage them to explore the sample project's components and features to gain familiarity with mixed reality development within the chosen platform.
+Documentation:
+
+Require students to document their setup process in a report or presentation. This documentation should include:
+Step-by-step instructions for installation and configuration.
+Any challenges they encountered during the setup and how they resolved them.
+A summary of the features and components they discovered in the sample project.
+Visual Demonstration:
+
+Request that students provide a visual element to demonstrate their development environment setup. This can be in the form of screenshots, a brief video tour of the development environment, or a walkthrough of the sample project.
+Assessment:
+The Setting Up a Mixed Reality Project assignment will be assessed based on the following criteria:
+
+Completeness: The thoroughness and completeness of the setup process documentation, ensuring all essential steps are covered.
+
+Problem Solving: The ability to identify and overcome challenges during the setup process.
+
+Clarity of Documentation: The clarity and organization of the documentation, making it easy to follow for someone new to mixed reality development.
+
+Visual Demonstration Quality: The quality and effectiveness of the visual element used to demonstrate the development environment setup.

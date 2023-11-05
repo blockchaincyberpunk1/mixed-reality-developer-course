@@ -1,0 +1,38 @@
+Gesture Recognition Implementation
+
+Objective: Implement gesture recognition in a mixed reality project.
+
+Instructions:
+
+Background:
+In this assignment, students will dive into the world of gesture recognition in mixed reality (MR) applications. Gesture recognition allows users to interact intuitively with MR environments using hand gestures, enhancing immersion and usability.
+
+Task:
+
+Mixed Reality Project Selection:
+
+Assign students to develop a mixed reality project of their choice using Unity or Unreal Engine. The project can be an augmented reality (AR) game, a virtual reality (VR) training application, or any other suitable MR concept.
+Gesture Recognition Integration:
+
+Instruct students to integrate gesture recognition into their chosen MR project. They should utilize the platform's APIs or available software development kits (SDKs) for hand tracking and gesture control.
+Challenge students to define and implement specific hand gestures that trigger actions or interactions within their MR project. These gestures could include pinch gestures, swipe gestures, or custom hand signs.
+Encourage students to consider the intuitive nature of their chosen gestures and how they enhance user engagement.
+Gesture Functionality:
+
+Require students to implement gesture functionality that corresponds to specific actions or interactions within their MR project. For example:
+In an AR game, a pinch gesture could be used to pick up virtual objects.
+In a VR training application, a swipe gesture could be used for menu navigation.
+The gestures should be well-documented and seamlessly integrated into the project.
+Video Documentation:
+
+Ask students to provide video documentation that demonstrates the functioning gestures within their MR project.
+The video should showcase users interacting with the MR environment using the implemented gestures.
+Students should provide voiceover or captions explaining the purpose of each gesture and its effect on the MR experience.
+Assessment:
+The Gesture Recognition Implementation assignment will be assessed based on the following criteria:
+
+Effective Gesture Implementation: The successful integration of gesture recognition into the MR project, including its functionality and responsiveness.
+
+User Experience: How well the implemented gestures enhance user engagement and immersion within the MR environment.
+
+Video Documentation: The quality and clarity of the video demonstration, including explanations of each gesture's purpose and effect.

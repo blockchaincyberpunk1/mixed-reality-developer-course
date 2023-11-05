@@ -1,0 +1,40 @@
+Trend Analysis
+
+Objective: Stay informed about mixed reality trends and emerging technologies.
+
+Instructions:
+
+Background:
+Staying up-to-date with the latest trends and emerging technologies in mixed reality is crucial for developers to remain competitive and innovative in their work. In this assignment, students will research and analyze recent articles, whitepapers, or research papers related to mixed reality to identify current trends, challenges, and innovations in the field.
+
+Task:
+
+Research Sources:
+
+Instruct students to explore a variety of reputable sources for mixed reality information. This can include academic journals, tech news websites, industry reports, or whitepapers from mixed reality companies.
+Encourage students to focus on sources published within the last 1-2 years to ensure relevance.
+Analyze Trends and Innovations:
+
+Task students with thoroughly reading and analyzing the selected sources to identify trends, challenges, and innovations in mixed reality development.
+They should consider aspects such as hardware advancements, software developments, industry applications, and user experience improvements.
+Compile a Report or Presentation:
+
+Require students to create a summary report or presentation based on their analysis.
+The report or presentation should include the following:
+A list of the selected sources with proper citations.
+A summary of the key trends, challenges, and innovations identified in the sources.
+Insights into how these trends may influence the future of mixed reality development, including potential opportunities and challenges.
+Discussion:
+
+Encourage students to engage in class discussions or online forums to share their findings and insights.
+Foster discussions on how these trends may impact their own mixed reality projects or career aspirations.
+Assessment:
+The Trend Analysis assignment will be assessed based on the following criteria:
+
+Source Selection: The relevance and diversity of the selected sources, including recent publications.
+
+Analysis: The depth of analysis in identifying and summarizing key trends, challenges, and innovations in mixed reality development.
+
+Presentation: The clarity and effectiveness of the report or presentation in conveying the findings and insights.
+
+Application: The ability to discuss how the identified trends may influence the future of mixed reality development and relate them to practical scenarios.

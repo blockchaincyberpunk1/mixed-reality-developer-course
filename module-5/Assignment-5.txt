@@ -1,0 +1,49 @@
+User Experience Testing
+
+Objective: Conduct user testing and gather feedback on the mixed reality application's user interface and interactions.
+
+Instructions:
+
+Background:
+User experience (UX) is a critical aspect of mixed reality (MR) development. In this assignment, students will have the opportunity to evaluate the effectiveness of their MR application's user interface and interactions through user testing and feedback collection.
+
+Task:
+
+Inviting Test Users:
+
+Instruct students to invite a group of test users or peers (preferably those who have not been involved in the development process) to experience their MR application.
+Students should ensure that their test users are representative of the target audience for their MR project.
+User Testing and Observation:
+
+Ask students to observe their test users as they interact with the MR application.
+Instruct students to pay particular attention to the following aspects:
+User interface (UI) usability: How easily users can navigate menus, access features, and understand the UI layout.
+Gesture recognition accuracy: The effectiveness and accuracy of gestures in controlling the application.
+Controller-based actions: How well users can perform actions using handheld controllers.
+Feedback Collection:
+
+Encourage students to actively collect feedback from the test users immediately after their interaction with the MR application.
+Students should ask users about their overall experience, any challenges they encountered, and their suggestions for improvement.
+Require students to document the feedback received, including written comments and any specific issues or recommendations provided by the users.
+Improvements and Refinements:
+
+Instruct students to review the collected feedback and identify common patterns or recurring issues.
+Ask students to outline the specific improvements or refinements they plan to make to address the identified issues and enhance the user experience.
+Report and Summary:
+
+Require students to submit a report summarizing the user testing process, including:
+The number of test users involved.
+Key observations made during the testing.
+A summary of user feedback.
+A clear outline of the planned improvements and refinements.
+Encourage students to reflect on how user testing has influenced their perception of the MR application and its usability.
+Assessment:
+The User Experience Testing assignment will be assessed based on the following criteria:
+
+Observation and Feedback Collection: The effectiveness of observing user interactions and collecting detailed feedback.
+
+Identification of Improvement Areas: The ability to identify areas of improvement based on user feedback and observations.
+
+Planned Enhancements: The clarity and relevance of the planned improvements and refinements.
+
+Report Presentation: The quality and completeness of the submitted report summarizing the user testing process and outcomes.

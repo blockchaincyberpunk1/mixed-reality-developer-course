@@ -1,0 +1,37 @@
+Interaction Design Prototype
+
+Objective: Apply interaction design principles to a mixed reality scenario.
+
+Instructions:
+
+Background:
+Interaction design is crucial in creating compelling mixed reality experiences. In this assignment, students will have the opportunity to design a mixed reality application or experience while focusing on user interactions and interface design.
+
+Task:
+
+Mixed Reality Experience Design:
+
+Assign students to design a simple mixed reality application or experience. They can choose between augmented reality (AR) or virtual reality (VR) scenarios.
+Instruct them to define a clear concept for their experience, considering factors like user engagement, educational value, or entertainment.
+Interaction Design:
+
+Challenge students to implement various interaction methods within their experience. They can consider hand gestures, voice commands, gaze-based interactions, or other forms of input.
+Ask students to create a storyboard or flowchart that illustrates the user's journey within the mixed reality experience. This should include key interaction points, such as selecting objects, navigating the environment, or triggering events.
+Wireframing or Sketching:
+
+Encourage students to use wireframing tools or sketch on paper to create a visual representation of their user interface (UI) and interactions. This could include UI elements, virtual objects, and how they respond to user actions.
+Students should focus on designing a user-friendly and intuitive interface that aligns with the intended user interactions.
+Written Explanation:
+
+Require students to provide a written explanation of their design choices and interaction considerations. They should justify their decisions based on user experience principles and the context of their mixed reality scenario.
+Encourage them to discuss challenges they foresee and potential solutions to address those challenges.
+Assessment:
+The Interaction Design Prototype assignment will be assessed based on the following criteria:
+
+Interaction Design Creativity: The creativity and innovation demonstrated in designing interactions for the mixed reality experience.
+
+User-Centered Approach: The extent to which the design considers the user's perspective and prioritizes user-friendly interactions.
+
+Visual Clarity: The clarity and quality of wireframes or sketches, including how well they convey the UI and interaction design.
+
+Written Explanation: The depth and clarity of the written explanation, including the justification of design choices and consideration of challenges.

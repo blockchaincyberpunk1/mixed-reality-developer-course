@@ -1,0 +1,41 @@
+VR Testing and Feedback
+
+Objective: Conduct testing and gather feedback on their VR projects.
+
+Instructions:
+
+Background:
+In the final assignment of this course, students will engage in the crucial process of testing their VR projects with real users or testers. This assignment aims to ensure that the VR experiences they've developed are user-friendly, immersive, and free from critical issues.
+
+Task:
+
+User Testing:
+
+Instruct students to organize user testing sessions for their VR projects. This could involve peers, classmates, or external testers.
+Each student should conduct at least two testing sessions to gather a diverse range of feedback.
+Feedback Collection:
+
+Ask students to provide testers with specific tasks or scenarios to complete within their VR projects.
+Students should collect feedback from testers regarding their overall experience, including usability, immersion, and any issues encountered.
+Iterative Improvements:
+
+Encourage students to analyze the feedback received and identify common pain points or suggestions for improvement.
+Instruct them to make iterative changes to their VR projects to address the feedback. These changes may include fixing bugs, improving interactions, or enhancing visuals.
+Documentation:
+
+Have students document the feedback they received, including both positive and negative comments.
+Ask them to create a summary of the changes and improvements made to their VR projects based on the feedback.
+Final Submission:
+
+Require students to submit the final version of their VR project, reflecting the improvements made.
+Alongside the project, students should include a report summarizing the testing and feedback process, detailing what they learned from user testing and how it influenced their project.
+Assessment:
+The VR Testing and Feedback assignment will be assessed based on the following criteria:
+
+User Testing: The thoroughness and quality of the user testing conducted, including the selection of testers and testing scenarios.
+
+Feedback Analysis: The effectiveness of the feedback analysis, including the identification of common issues and areas for improvement.
+
+Iterative Improvements: The quality of the changes made to the VR project based on the feedback received.
+
+Documentation: The completeness and clarity of the documentation, including feedback summaries and project changes.

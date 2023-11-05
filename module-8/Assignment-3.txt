@@ -1,0 +1,50 @@
+Open-Source Contribution
+
+Objective: Contribute to an open-source mixed reality project or library.
+
+Instructions:
+
+Background:
+Open-source contributions are a valuable way to gain practical experience, collaborate with the developer community, and enhance one's skills in mixed reality development. In this assignment, students will choose an open-source mixed reality project or library and make a meaningful contribution to it.
+
+Task:
+
+Explore Open-Source Projects:
+
+Instruct students to explore popular open-source mixed reality projects or libraries, such as A-Frame, AR.js, or Mixed Reality Toolkit (MRTK).
+Encourage them to research and understand the goals and purpose of these projects.
+Select a Project:
+
+Task students with selecting one open-source project from their research that aligns with their interests and skill level.
+Ensure that the project has open issues or feature requests that students can contribute to.
+Contribution Planning:
+
+Instruct students to review the project's issues or feature requests and choose one they would like to work on.
+Require students to create a plan detailing how they intend to address the issue or implement the feature. This should include a timeline and resources needed.
+Contribution Implementation:
+
+Students should proceed to make their contribution to the selected open-source project. Contributions may include:
+Fixing a bug.
+Implementing a new feature.
+Improving documentation.
+Emphasize the importance of following the project's contribution guidelines, coding standards, and version control practices.
+Quality Assurance:
+
+Encourage students to thoroughly test their contribution to ensure that it meets the project's requirements and doesn't introduce new issues.
+They should address any feedback or code review comments from the project maintainers promptly.
+Documentation and Sharing:
+
+Require students to document their contribution, including code changes, testing procedures, and any challenges faced during the process.
+Instruct them to share their experience with the class, including a summary of their contribution, its impact on the project, and lessons learned.
+Assessment:
+The Open-Source Contribution assignment will be assessed based on the following criteria:
+
+Project Selection: The appropriateness of the chosen open-source project and its alignment with the student's interests and skill level.
+
+Contribution Planning: The quality and thoroughness of the contribution plan, including timelines and resource considerations.
+
+Contribution Implementation: The effectiveness of the student's contribution to the project, including bug fixes, features, or documentation improvements.
+
+Quality Assurance: The diligence in testing and ensuring the quality of the contribution, as well as responsiveness to feedback.
+
+Documentation and Sharing: The clarity and completeness of the documentation, as well as the ability to communicate the contribution's impact and lessons learned to the class.

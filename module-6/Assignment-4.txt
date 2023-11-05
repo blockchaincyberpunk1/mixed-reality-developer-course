@@ -1,0 +1,41 @@
+Real-world Integration with IoT
+
+Objective: Integrate IoT (Internet of Things) devices into a mixed reality environment for real-world data interaction.
+
+Instructions:
+
+Background:
+The Internet of Things (IoT) is a network of interconnected physical devices that collect and exchange data. Integrating IoT devices into mixed reality (MR) environments allows for real-world data interaction, enhancing the immersive experience. In this assignment, students will explore the integration of IoT devices into their MR projects.
+
+Task:
+
+Creating a Mixed Reality Application:
+
+Instruct students to continue working on their mixed reality application from previous assignments or create a new one using Unity or Unreal Engine.
+Emphasize that the primary focus of this assignment is to integrate IoT devices or sensors into their MR applications.
+Integration of IoT Devices:
+
+Challenge students to identify and select IoT devices (e.g., temperature sensors, smart lights, motion detectors, or any other IoT devices) that can be connected to their mixed reality application.
+Instruct them to set up the IoT devices and establish communication between these devices and their MR application. This may involve using IoT platforms or protocols (e.g., MQTT) for data exchange.
+Real-world Data Interaction:
+
+Have students develop interactions within their MR application that respond to real-world data collected by the IoT devices. For example:
+If they use temperature sensors, the MR environment could react with visual effects or sound based on temperature changes.
+Smart lights could be controlled and synchronized with the MR experience.
+Motion detectors could trigger events or animations within the MR environment based on user movements.
+Demonstration:
+
+Students should provide a video demonstration of their MR application, showcasing how it leverages real-world data from IoT devices to trigger events or visual changes within the MR environment.
+Benefits and Use Cases:
+
+In their submission, students should explain the benefits and potential use cases of integrating IoT devices into their MR applications. Encourage them to think about how this integration enhances the overall MR experience.
+Assessment:
+The Real-world Integration with IoT assignment will be assessed based on the following criteria:
+
+Integration of IoT Devices: The successful integration of IoT devices or sensors into the MR application.
+
+Real-world Data Interaction: The quality and creativity of interactions that respond to real-world data collected by IoT devices.
+
+Demonstration Quality: The clarity and completeness of the video demonstration showcasing the integration of IoT and its impact on the MR environment.
+
+Benefits and Use Cases: The students' ability to articulate the benefits and potential use cases of IoT integration within MR applications.

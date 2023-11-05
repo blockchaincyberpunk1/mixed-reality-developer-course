@@ -1,0 +1,48 @@
+Mixed Reality Indoor Navigation
+
+Objective: Create a mixed reality application that assists users with indoor navigation and wayfinding.
+
+Instructions:
+
+Background:
+Indoor navigation can be challenging, especially in large or complex environments such as shopping malls, airports, or office buildings. Mixed reality (MR) technology offers an innovative solution to this problem by providing users with real-time guidance and wayfinding assistance. In this assignment, students will develop an MR application that helps users navigate indoor spaces effectively.
+
+Task:
+
+Creating a Mixed Reality Navigation Application:
+
+Instruct students to create a mixed reality application that focuses on indoor navigation and wayfinding. They should use Unity or Unreal Engine as their development platform.
+Spatial Mapping and Recognition:
+
+Challenge students to implement spatial mapping techniques to recognize the physical environment. They should utilize MR devices (e.g., HoloLens, Magic Leap, or any other MR hardware) or smartphone-based AR for this purpose.
+The application should be able to scan and map the indoor space, including walls, obstacles, and important landmarks.
+Navigation Features:
+
+Have students implement navigation features within the application, such as:
+Pathfinding: Users should be able to input their destination, and the application should calculate and display the optimal route to reach it.
+Location-Based Information: The application should provide information about nearby points of interest (e.g., restrooms, exits, or shops) as users move through the indoor space.
+Augmented Reality Markers: Students should include AR markers or visual cues that guide users along the designated path.
+User-Friendly Interface:
+
+Encourage students to design a user-friendly interface that makes indoor navigation intuitive and accessible. Consider aspects such as visual clarity, ease of use, and user feedback.
+Accessibility Considerations:
+
+Emphasize the importance of accessibility in indoor navigation. Students should consider how their application can assist users with disabilities or special needs, such as visual or hearing impairments.
+Presentation and Demonstration:
+
+Students should present their MR indoor navigation application to the class, demonstrating how it works. The demonstration should include:
+A walkthrough of the application's features.
+A demonstration of how users can input a destination and receive navigation guidance.
+An explanation of how the application utilizes spatial mapping for indoor navigation.
+Assessment:
+The Mixed Reality Indoor Navigation assignment will be assessed based on the following criteria:
+
+Functionality: The effectiveness of the application in recognizing and mapping indoor spaces, as well as providing accurate navigation guidance.
+
+Navigation Features: The quality and usability of pathfinding, location-based information, and augmented reality markers.
+
+User Interface: The design and user-friendliness of the interface, ensuring that indoor navigation is intuitive and accessible.
+
+Accessibility: The consideration of accessibility needs and the incorporation of features to assist users with disabilities.
+
+Presentation: The quality and clarity of the presentation and demonstration of the application's functionality.

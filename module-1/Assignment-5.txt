@@ -1,0 +1,37 @@
+Mixed Reality Hardware Review
+
+Objective: Explore mixed reality hardware options and specifications.
+
+Instructions:
+
+Background:
+In the world of mixed reality development, choosing the right hardware is essential for creating immersive and effective experiences. This assignment encourages students to research and evaluate popular mixed reality devices to understand their technical specifications, compatibility, and software development opportunities.
+
+Task:
+
+Select a Mixed Reality Device:
+
+Provide students with a list of popular mixed reality devices, which may include VR headsets, AR glasses, or spatial computing platforms.
+Instruct students to choose one mixed reality device from the provided list or select a device of their choice that is relevant to mixed reality development.
+Device Research:
+
+Ask students to research the chosen device and gather information on the following aspects:
+Technical Specifications: Hardware specifications, including display resolution, field of view, tracking capabilities, and sensors.
+Compatibility: Operating systems and platforms the device supports, including Windows, Android, or specific mixed reality ecosystems.
+Software Development Kits (SDKs): Availability of development tools, SDKs, and documentation for creating applications or experiences on the chosen device.
+Report and Assessment:
+
+Challenge students to write a brief report summarizing their research findings. The report should include:
+An overview of the selected mixed reality device.
+Detailed technical specifications.
+Information on compatibility and supported platforms.
+An assessment of the device's suitability for mixed reality development.
+Any unique features or limitations of the device.
+Assessment:
+The Mixed Reality Hardware Review assignment will be assessed based on the following criteria:
+
+Technical Accuracy: The accuracy and completeness of the technical specifications and compatibility information presented in the report.
+
+Assessment of Suitability: The ability of the student to assess the suitability of the chosen device for mixed reality development based on their research.
+
+Clarity and Organization: The clarity, organization, and conciseness of the report.

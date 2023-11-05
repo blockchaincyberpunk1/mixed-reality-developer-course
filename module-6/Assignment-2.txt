@@ -1,0 +1,41 @@
+Real-world Object Alignment
+
+Objective: Develop a mixed reality application that accurately aligns virtual objects with real-world surfaces and objects.
+
+Instructions:
+
+Background:
+One of the key challenges in mixed reality (MR) development is ensuring that virtual objects seamlessly align with and interact with the real-world environment. In this assignment, students will dive into the intricacies of real-world object alignment in MR applications.
+
+Task:
+
+Creating a Mixed Reality Application:
+
+Instruct students to continue working on their mixed reality application from Assignment 1 or create a new one. They should use Unity or Unreal Engine, depending on their chosen development platform.
+Emphasize that the focus of this assignment is on object alignment and interaction with the physical world.
+Real-world Object Alignment:
+
+Challenge students to implement features that ensure virtual objects align accurately with real-world surfaces and objects. These can include tabletops, walls, floors, or physical objects.
+Encourage them to explore techniques for achieving alignment, such as spatial anchors, plane detection, or marker-based tracking.
+Spatial Consistency:
+
+Guide students to maintain spatial consistency between virtual objects and the real-world environment. This means ensuring that the virtual objects maintain their positions and orientations relative to physical objects, even as the user moves around.
+Interactions with Aligned Objects:
+
+Instruct students to create a scenario within their MR application where users can interact with the aligned virtual objects in a meaningful way. For example:
+Users can place virtual furniture on real floors and arrange it.
+Users can align virtual diagrams with physical documents for annotation or reference.
+Users can interact with virtual controls on physical machines or appliances.
+Demonstration:
+
+Students should provide a video demonstration of their MR application in action. They should showcase how virtual objects align seamlessly with real-world elements and how users can interact with these objects.
+Assessment:
+The Real-world Object Alignment assignment will be assessed based on the following criteria:
+
+Alignment Accuracy: The degree to which virtual objects align accurately with real-world surfaces and objects.
+
+Spatial Consistency: How well the MR application maintains spatial consistency between virtual and physical elements.
+
+Interactivity: The creativity and functionality of user interactions with aligned virtual objects.
+
+Demonstration Quality: The clarity and completeness of the video demonstration showcasing the application's real-world object alignment and interactions.

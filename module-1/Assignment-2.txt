@@ -1,0 +1,33 @@
+VR vs. AR Comparison
+
+Objective: Understand the differences between Virtual Reality (VR) and Augmented Reality (AR).
+
+Instructions:
+
+Background:
+Virtual Reality (VR) and Augmented Reality (AR) are two distinct but related technologies that fall under the umbrella of mixed reality. Understanding their differences and applications is essential for mixed reality developers.
+
+Task:
+
+Comparative Analysis:
+
+Assign students to create a comprehensive comparative analysis between Virtual Reality (VR) and Augmented Reality (AR) technologies.
+Hardware and Software Requirements:
+
+Instruct students to explain the hardware and software requirements for both VR and AR systems. This should cover aspects like headsets, sensors, computing power, and software development tools.
+Fundamental Differences in User Experiences:
+
+Ask students to delve into the fundamental differences in user experiences between VR and AR. This should include aspects like immersion, interaction, and the blending of digital and physical environments.
+Real-World Examples:
+
+Challenge students to provide real-world examples of popular VR and AR devices, applications, or use cases. These examples should illustrate the practical applications of both technologies in various industries.
+Assessment:
+The VR vs. AR Comparison assignment will be assessed based on the following criteria:
+
+Comparative Analysis: The depth and accuracy of the comparative analysis between VR and AR technologies.
+
+Hardware and Software Requirements: The clarity and completeness of the explanations regarding hardware and software requirements.
+
+Fundamental Differences: The accuracy and insightfulness of the explanations regarding the fundamental differences in user experiences.
+
+Real-World Examples: The relevance and variety of real-world examples provided to illustrate the practical applications of VR and AR.

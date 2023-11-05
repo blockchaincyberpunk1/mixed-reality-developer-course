@@ -1,0 +1,41 @@
+User-Centric Education App
+
+Objective: Develop a user-centric mixed reality application for educational purposes.
+
+Instructions:
+
+Background:
+Mixed reality has the potential to revolutionize education by creating immersive and interactive learning experiences. In this assignment, students will design and develop a mixed reality application that focuses on enhancing education in a specific subject or field while prioritizing user-centric design.
+
+Task:
+
+Select an Educational Focus:
+
+Instruct students to choose a specific subject or field within education where mixed reality can offer unique benefits (e.g., science, history, mathematics, art, or language learning).
+Design and Develop the Application:
+
+Challenge students to design and develop a mixed reality application that provides engaging and educational content related to the chosen subject.
+Encourage them to leverage mixed reality features such as 3D models, spatial interactions, and immersive storytelling to enhance the educational experience.
+User Testing and Feedback:
+
+Task students with conducting user testing or gathering feedback from potential users, which could include students, educators, or individuals interested in the subject matter.
+Instruct them to document user feedback regarding the application's usability, educational value, and overall user experience.
+Iterate and Refine:
+
+Based on the feedback received, require students to iterate and refine their mixed reality application. Encourage them to address any usability issues or suggestions for improvement.
+Presentation and Showcase:
+
+During class presentations, have students showcase their educational mixed reality applications.
+Ask them to demonstrate the application's features, its educational value, and how it aligns with the user-centric design principles they implemented.
+Assessment:
+The User-Centric Education App assignment will be assessed based on the following criteria:
+
+Educational Value: The quality and effectiveness of the educational content within the mixed reality application.
+
+User-Centric Design: How well the application prioritizes user experience and usability, taking into account feedback from potential users.
+
+Mixed Reality Integration: The creativity and effectiveness of integrating mixed reality features, such as 3D models and spatial interactions, into the educational content.
+
+User Feedback: The thoroughness of the user testing and feedback collection process, as well as the ability to address user suggestions in the application's refinement.
+
+Presentation: The quality of the presentation and the ability to effectively showcase the educational value and user-centric design of the mixed reality application.

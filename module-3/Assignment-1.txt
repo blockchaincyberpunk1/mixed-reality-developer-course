@@ -1,0 +1,39 @@
+Platform Selection
+
+Objective: Evaluate and choose the most suitable development platform for a mixed reality project.
+
+Instructions:
+
+Background:
+Choosing the right development platform is a critical decision for mixed reality developers. Unity 3D and Unreal Engine are two popular choices, each with its own strengths and weaknesses. In this assignment, students will research and compare these platforms to determine the most suitable one for a given mixed reality project.
+
+Task:
+
+Research and Comparison:
+
+Instruct students to thoroughly research Unity 3D and Unreal Engine as development platforms for mixed reality applications.
+Encourage them to explore the official documentation, community forums, and resources specific to mixed reality development with these platforms.
+Task students with comparing the following aspects of Unity 3D and Unreal Engine:
+Features and Capabilities: What features and capabilities do each platform offer for mixed reality development?
+Supported Devices: Which mixed reality devices (e.g., HoloLens, Oculus Rift) are supported by each platform?
+Ease of Use: How user-friendly are the interfaces and development workflows of each platform?
+Community and Support: What is the level of community support, available plugins, and third-party resources for each platform?
+Performance: Are there differences in performance, particularly for resource-intensive mixed reality applications?
+Platform Selection Report or Presentation:
+
+Ask students to create a report or presentation summarizing their findings.
+Require them to explain their choice of platform based on the research, highlighting the strengths and weaknesses that influenced their decision.
+Encourage students to provide concrete examples or case studies, if available, to support their choice.
+Recommendations:
+
+Challenge students to make specific recommendations based on the chosen platform for various types of mixed reality projects. For example, they should identify which platform is better suited for educational applications versus gaming experiences.
+Assessment:
+The Platform Selection assignment will be assessed based on the following criteria:
+
+Comprehensive Research: The depth and comprehensiveness of the research on Unity 3D and Unreal Engine for mixed reality development.
+
+Clear Presentation: The clarity and effectiveness of the report or presentation in presenting research findings.
+
+Platform Selection Justification: The quality of justifications for the chosen platform, considering its strengths and weaknesses.
+
+Recommendations: The relevance and practicality of the recommendations provided for different project types.

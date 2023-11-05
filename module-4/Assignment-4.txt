@@ -1,0 +1,37 @@
+VR Interactions and Mechanics
+
+Objective: Implement immersive interactions and mechanics in their VR projects.
+
+Instructions:
+
+Background:
+In this assignment, students will dive deeper into the development of their VR projects by adding interactive elements and mechanics. The objective is to create immersive and engaging experiences that leverage VR-specific input methods, such as hand tracking or VR controllers.
+
+Task:
+
+Add Interactive Elements:
+
+Instruct students to identify opportunities for interactivity within their VR environments. This can include clickable objects, physics-based interactions, or puzzles.
+Encourage them to brainstorm creative ways to engage users and make the VR experience more immersive.
+Implement VR Input Methods:
+
+Guide students in implementing VR-specific input methods suitable for their VR project. This could involve integrating hand tracking, VR controllers, or gaze-based interactions.
+Ensure that students provide clear instructions or cues for users to understand how to interact with the VR environment using these input methods.
+User Experience (UX) Considerations:
+
+Stress the importance of adhering to UX principles for VR, such as comfort, natural interactions, and intuitive controls.
+Encourage students to test their interactions with potential users or peers to gather feedback and refine the user experience.
+Video or Demonstration:
+
+Have students create a video or interactive demonstration showcasing the interactive features they've implemented in their VR projects.
+The video should highlight how users can engage with the VR environment and interact with objects or elements.
+Assessment:
+The VR Interactions and Mechanics assignment will be assessed based on the following criteria:
+
+Interactive Elements: The quality and creativity of the interactive elements added to the VR environment.
+
+VR Input Integration: The successful implementation of VR input methods, ensuring they enhance the user experience.
+
+UX Principles: Adherence to UX principles for VR, with an emphasis on comfort, natural interactions, and intuitiveness.
+
+Video/Demonstration: The effectiveness of the video or demonstration in showcasing the VR project's interactive features.

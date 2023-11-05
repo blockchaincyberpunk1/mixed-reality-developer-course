@@ -1,0 +1,39 @@
+VR Development Kickoff
+
+Objective: Begin the VR development process within Unity or Unreal Engine.
+
+Instructions:
+
+Background:
+Now that students have designed their VR scenes and environments in Assignment 2, it's time to take the next step and begin the actual VR development process. In this assignment, students will create the foundational elements of their VR projects using either Unity or Unreal Engine, following VR best practices.
+
+Task:
+
+Create a New VR Project:
+
+Instruct students to start a new VR project in either Unity or Unreal Engine, depending on their preference and prior experience.
+Emphasize the importance of choosing the appropriate VR template or project type that aligns with their VR project concept.
+Set Up the Basic Environment:
+
+Ask students to create the basic structure of their VR environment or scene within the development platform.
+They should import relevant 3D models, textures, and assets into the project.
+Encourage students to organize assets and maintain a clean project structure.
+Implement Locomotion Controls:
+
+Guide students in implementing locomotion controls to enable user movement within the VR environment.
+Depending on their VR project concept, they can choose suitable locomotion methods, such as teleportation, smooth locomotion, or room-scale walking.
+Checkpoint Submission:
+
+Assign a checkpoint submission to monitor students' progress.
+Students should provide screenshots or a video demonstration of their VR environment within the development platform.
+They should briefly describe the assets imported, the locomotion controls implemented, and any challenges faced during the setup.
+Assessment:
+The VR Development Kickoff assignment will be assessed based on the following criteria:
+
+Project Setup: The completeness and correctness of the VR project setup within Unity or Unreal Engine.
+
+Asset Integration: The successful import and organization of 3D models, textures, and assets.
+
+Locomotion Controls: The effective implementation of locomotion controls suitable for the VR project.
+
+Checkpoint Submission: The quality and completeness of the checkpoint submission, including documentation of progress and challenges.

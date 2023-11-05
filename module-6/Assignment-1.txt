@@ -1,0 +1,43 @@
+Spatial Mapping Visualization
+
+Objective: Implement spatial mapping in a mixed reality application and visualize the meshed environment.
+
+Instructions:
+
+Background:
+Spatial mapping is a fundamental concept in mixed reality (MR) development, allowing applications to understand and interact with the real-world environment. In this assignment, students will explore spatial mapping and visualize the meshed environment within their MR applications.
+
+Task:
+
+Creating a Mixed Reality Application:
+
+Instruct students to create a mixed reality application using Unity or Unreal Engine. They can choose their preferred platform depending on their project goals.
+Ensure that students have access to the necessary development hardware (e.g., HoloLens, VR headset) for testing their MR application.
+Integrating Spatial Mapping:
+
+Ask students to integrate spatial mapping APIs or SDKs that are relevant to their chosen development platform. For example, HoloLens developers can use HoloLens Spatial Mapping, while ARKit or ARCore can be used for mobile AR applications.
+Instruct students to set up the spatial mapping features and ensure that the application can capture and update the meshed environment in real-time.
+Visualizing the Spatial Mesh:
+
+Challenge students to render the spatial mesh of the physical environment within the virtual world of their MR application.
+They should explore techniques for visualizing the mesh, such as using wireframe rendering or shading that blends the virtual and real environments seamlessly.
+User Interactions with Spatial Mapping:
+
+Require students to implement user interactions or features that utilize the spatial mapping data. For example:
+Users can place virtual objects on real surfaces detected by spatial mapping.
+Users can interact with the spatial mesh, such as drawing or annotating on it.
+Users can trigger events or actions based on the spatial mesh's characteristics.
+Demonstration:
+
+Students should provide a video demonstration of their MR application in action.
+Encourage them to showcase how the spatial mapping is visualized within the application and how users can interact with the meshed environment.
+Assessment:
+The Spatial Mapping Visualization assignment will be assessed based on the following criteria:
+
+Spatial Mapping Integration: The successful integration of spatial mapping APIs or SDKs into the MR application.
+
+Mesh Visualization: The quality and effectiveness of visualizing the spatial mesh within the virtual environment.
+
+User Interactions: The creativity and functionality of user interactions or features that utilize the spatial mapping.
+
+Demonstration Quality: The clarity and completeness of the video demonstration showcasing the application's spatial mapping visualization and interactions.

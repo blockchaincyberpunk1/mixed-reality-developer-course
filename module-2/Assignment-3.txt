@@ -1,0 +1,37 @@
+Lighting and Shading
+
+Objective: Understand the role of lighting and shading in 3D graphics.
+
+Instructions:
+
+Background:
+Lighting and shading play a crucial role in creating visually appealing and realistic 3D environments. This assignment focuses on exploring the impact of different lighting setups and material properties in a 3D scene.
+
+Task:
+
+3D Scene Creation:
+
+Assign students to create a 3D scene using a 3D modeling or game engine tool of their choice (e.g., Unity, Unreal Engine).
+The scene should include multiple objects, and students should have the freedom to design the layout and placement of objects.
+Lighting Experimentation:
+
+Instruct students to experiment with different lighting setups within their 3D scene. They should explore various types of lights, including point lights, spotlights, and directional lights.
+Encourage students to adjust the intensity, color, and position of lights to observe their impact on the scene's visual aesthetics and mood.
+Shading Adjustments:
+
+Ask students to adjust material properties (e.g., specular, diffuse) of objects in their scene to achieve different shading effects. They should explore how materials interact with light sources.
+Students should experiment with materials like metal, plastic, and glass to understand how different surface properties affect the reflection and absorption of light.
+Documentation:
+
+Require students to capture screenshots or renderings of their 3D scenes with various lighting configurations and shading effects.
+In a written document, ask them to describe the impact of each lighting setup and shading adjustment on the visual quality and mood of their scene.
+Assessment:
+The Lighting and Shading assignment will be assessed based on the following criteria:
+
+Lighting Mastery: The students' ability to effectively use different types of lighting sources and configurations to enhance the scene.
+
+Shading Proficiency: The extent to which students can manipulate material properties to achieve desired shading effects.
+
+Visual Impact: How well the changes in lighting and shading contribute to the visual quality and mood of the 3D scene.
+
+Documentation Clarity: The clarity and completeness of the documentation describing the impact of lighting and shading adjustments.

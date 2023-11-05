@@ -1,0 +1,40 @@
+Spatial UI Development
+
+Objective: Create spatial user interface elements for mixed reality.
+
+Instructions:
+
+Background:
+In this assignment, students will build upon their mixed reality (MR) project by focusing on the development of spatial user interface (UI) elements. Spatial UI enhances the MR experience by allowing users to interact with menus, displays, and information panels seamlessly within the MR environment.
+
+Task:
+
+Continuation of Previous Project:
+
+Students should continue working on the MR project they started in the previous assignment, where gesture recognition was implemented.
+Spatial UI Design:
+
+Instruct students to design and implement spatial UI elements within their MR project. Spatial UI elements can include 3D menus, holographic displays, floating information panels, or any other relevant UI components.
+Encourage students to consider the following when designing their spatial UI:
+Placement: Ensure that UI elements are optimally positioned within the MR environment, taking into account user comfort and ease of interaction.
+Interactivity: Implement user interactions with the spatial UI, such as selecting options, scrolling, or resizing.
+Aesthetics: Design UI elements that align with the overall theme and aesthetics of the MR project.
+Clarity: Ensure that information displayed in the spatial UI is clear and readable in the MR environment.
+Usability Testing:
+
+Ask students to conduct usability testing with potential users or peers to gather feedback on the spatial UI's design and functionality.
+Students should document user feedback, noting any suggestions for improvements.
+Demonstration:
+
+Require students to provide a demonstration of their MR project, highlighting the functionality and usability of the implemented spatial UI elements.
+Students should showcase how users interact with the spatial UI within the MR environment.
+Assessment:
+The Spatial UI Development assignment will be assessed based on the following criteria:
+
+Spatial UI Implementation: The successful integration and functionality of spatial UI elements within the MR project.
+
+User Experience: How well the spatial UI enhances user comfort and engagement within the MR environment.
+
+Usability Testing: The quality of feedback collected during usability testing and any improvements made based on user feedback.
+
+Demonstration: The effectiveness of the demonstration in showcasing the spatial UI's functionality and usability.

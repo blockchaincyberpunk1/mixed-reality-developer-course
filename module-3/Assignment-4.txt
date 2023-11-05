@@ -1,0 +1,38 @@
+Cross-Platform Development
+
+Objective: Explore strategies for developing mixed reality applications that work across multiple platforms.
+
+Instructions:
+
+Background:
+As a mixed reality developer, it's important to understand how to create applications that can be deployed on various platforms to reach a broader audience. This assignment focuses on adapting an existing AR project for cross-platform compatibility.
+
+Task:
+
+Existing AR Project Modification:
+
+Instruct students to take their AR application created in Assignment 3 (ARKit or ARCore) and modify it to be cross-platform compatible. This means ensuring that the application can run on both iOS and Android devices.
+Platform-Specific Differences:
+
+Students should address any platform-specific differences, such as:
+Differences in AR tracking capabilities.
+Platform-specific UI/UX considerations.
+Differences in performance optimization.
+Compatibility with various device screen sizes and resolutions.
+Testing:
+
+Encourage students to thoroughly test their cross-platform AR application on actual devices or emulators for both iOS and Android. Testing should include checking for functionality, performance, and usability on different devices.
+Challenges and Solutions Report:
+
+Ask students to create a report detailing the challenges they encountered during the cross-platform development process and the solutions they implemented.
+The report should include explanations of any platform-specific modifications made to the application and their impact on user experience.
+Assessment:
+The Cross-Platform Development assignment will be assessed based on the following criteria:
+
+Cross-Platform Compatibility: The successful modification of the AR application to run on both iOS and Android platforms.
+
+Platform-Specific Considerations: The identification and effective handling of platform-specific differences and user experience considerations.
+
+Testing and Validation: Thorough testing on actual devices or emulators to ensure the application works as intended on both platforms.
+
+Challenges and Solutions: The quality of the report in describing challenges faced and the effectiveness of the solutions applied.
